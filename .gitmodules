@@ -1,0 +1,4 @@
+[submodule "yarn-berry-workspaces/packages/a"]
+	url = https://github.com/happyGGang/mfa-workspaces
+[submodule "yarn-berry-workspaces/packages/b"]
+	url = https://github.com/happyGGang/mfa-workspaces
